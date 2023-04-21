@@ -13,7 +13,7 @@ For some reason, the Player Input component is not working as expected. I have c
 
 Here is how the Input Controller looks like:
 <img title="World Input Controller Map" src="/Images/WorldInputControllerMap.png">
-<img title="Player Input Controller Map" src="/Images/CharacterControllerInputMap.png">
+<img title="Player Input Controller Map" src="/Images/PlayerInputControllerMap.png">
 
 Even though my understanding is that both GameObjects should be able to hear the Input events, it is not the case. When both GameObjects (Character and World) are active in the scene, only the Character Game Object (the player) is able to hear the input from the XBox controller. And so, whenevr I click the South button, it jumps. But the World is not able to hear the movement from the left stick. And, whenever I start the game with the Character inactive, the World is now able to hear the Movement Input event. 
 
