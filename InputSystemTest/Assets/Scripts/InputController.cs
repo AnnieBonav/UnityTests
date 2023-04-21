@@ -110,17 +110,6 @@ public partial class @InputController: IInputActionCollection2, IDisposable
                 },
                 {
                     ""name"": """",
-                    ""id"": ""67028ea1-1152-4dae-8c0c-88cb8c6f333b"",
-                    ""path"": """",
-                    ""interactions"": """",
-                    ""processors"": """",
-                    ""groups"": ""Joystick"",
-                    ""action"": ""Jump"",
-                    ""isComposite"": false,
-                    ""isPartOfComposite"": false
-                },
-                {
-                    ""name"": """",
                     ""id"": ""fd2ac87f-0b1c-4640-a6f5-da0087477411"",
                     ""path"": ""<XInputController>/buttonSouth"",
                     ""interactions"": """",
